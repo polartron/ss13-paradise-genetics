@@ -4,7 +4,7 @@
 
 # Description
 
-A tool to keep track of genes and their possible traits in the paradise station gentics lab. 
+A tool to keep track of genes and their possible traits in the paradise station gentics lab. It automatically cross references, eliminats, and does all kinds of magic to calculate the possibility of genes. 
 It is most useful if you're doing "gonzo genetics" by pulsing radiation and injecting yourself to get the list of symptoms. 
 You will, through the process of finding bad genes, be left with gaps of possible good genes to do block injections with. 
 
