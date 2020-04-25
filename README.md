@@ -1,4 +1,4 @@
-# Genetics Helper 
+# SS13 Paradise Station Genetics Helper 
 
 ![Genetics Helper](https://i.imgur.com/jdrSn2J.png)
 
