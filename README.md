@@ -1,5 +1,7 @@
 # Genetics Helper 
 
+![Genetics Helper](https://i.imgur.com/jdrSn2J.png)
+
 # Description
 
 A tool to keep track of genes and their possible traits in the paradise station gentics lab. 
@@ -12,6 +14,7 @@ This is mainly a helper tool and in no way a tool to cheat the game. If you're e
 # Workflow
 
 Potassium Iodine or Penetic Acid is very useful to lower your humanoids radiation and your own. You will be injecting yourself with Structural Enzymes a lot.
+
 
 1. Get a medbot from robotics.
 2. Make 2-3 humanoids.
@@ -30,6 +33,7 @@ Potassium Iodine or Penetic Acid is very useful to lower your humanoids radiatio
 14. Click apply. The program will do its thing.
 15. Goto 3 and use the next humanoid. Let the one you just used heal from the radiation.
 
+You can confirm traits manually by clicking the "C" icon and using the - + buttons to choose the trait. 
 
 tl;dr Blast your humanoids with radiation, scramble their genes, and inject yourself to see the effects. 
 Repeat until you're happy with all the bad genes you've found, and some good genes too. 
