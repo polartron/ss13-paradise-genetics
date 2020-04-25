@@ -1,5 +1,6 @@
 # SS13 Paradise Station Genetics Helper 
 
+(Sceenshot from the development gene tester, in game will be different)
 ![Genetics Helper](https://i.imgur.com/jdrSn2J.png)
 
 # Description
