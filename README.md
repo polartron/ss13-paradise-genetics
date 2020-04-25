@@ -37,3 +37,8 @@ You can confirm traits manually by clicking the "C" icon and using the - + butto
 
 tl;dr Blast your humanoids with radiation, scramble their genes, and inject yourself to see the effects. 
 Repeat until you're happy with all the bad genes you've found, and some good genes too. 
+
+# Installation
+
+Download the release from https://github.com/polartron/ss13-paradise-genetics/releases and run Paradise Genetics.exe
+Alternatively download the project and run it inside Unity.
