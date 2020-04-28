@@ -7,7 +7,9 @@
 
 A tool to keep track of genes and their possible traits in the paradise station gentics lab. It automatically eliminates and does all kinds of magic to calculate the possibility of traits. 
 It is most useful if you're doing "gonzo genetics" by pulsing radiation and injecting yourself to get the list of symptoms. 
-You will, through the process of finding bad genes, be left with gaps of possible good genes to do block injections with. 
+You will, through the process of finding bad genes, be left with gaps of possible good genes to do block injections with.
+
+Other than that it's a pretty good tool to view active traits and keep track of powers, even if you don't use the technique below.
 
 # Disclaimer
 This is mainly a helper tool and in no way a tool to cheat the game. If you're experienced you can do these things in your head, or on paper.
