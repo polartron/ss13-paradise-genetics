@@ -16,7 +16,7 @@ This is mainly a helper tool and in no way a tool to cheat the game. If you're e
 
 # Workflow
 
-Potassium Iodine or Penetic Acid is very useful to lower your humanoids radiation and your own. You will be injecting yourself with Structural Enzymes a lot.
+Potassium Iodine or Pentetic Acid is very useful to lower your humanoids radiation and your own. You will be injecting yourself with Structural Enzymes a lot.
 
 
 1. Get a medbot from robotics.
