@@ -503,9 +503,12 @@ public class Genetics : MonoBehaviour
             string clipBoard = GUIUtility.systemCopyBuffer;
 
             string start = "Modify Structural Enzymes";
-            string end = "Irradiate Block";
+            string end = "Irradiate Block";
 
-            if (clipBoard.Contains(start) && clipBoard.Contains(end))
+            bool containsStart = clipBoard.Contains(start);
+            bool containsEnd = clipBoard.Contains(end);
+            
+            if (containsStart && containsEnd)
             {
                 int from = clipBoard.IndexOf(start) + start.Length;
                 int to = clipBoard.LastIndexOf(end);
